@@ -1,6 +1,6 @@
 Arkanoid
 
-[Demo]()
+[Demo](https://valentynchepiha.github.io/game-arkanoid/)
 
 This is standard arkanoid.
 Game has many levels and different bricks.
